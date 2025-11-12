@@ -86,5 +86,5 @@ Data Enthusiast | Universitas Brawijaya
 
 ---
 
-## 🪪 Lisensi
+## Lisensi
 MIT License © 2025 Muhammad Dzakwan
