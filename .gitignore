@@ -1,3 +1,17 @@
+# Ignore file besar
+*.csv
+*.xlsx
+*.pbix
+
+# Python cache
+__pycache__/
+*.pyc
+venv/
+
+# Sistem file
+.DS_Store
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
