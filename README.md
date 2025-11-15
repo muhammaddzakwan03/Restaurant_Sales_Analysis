@@ -88,9 +88,10 @@ restaurant_sales_dashboard :
 | File | Deskripsi |
 |------|------------|
 | `data/raw_food_sales.csv` | Data mentah penjualan restoran |
-| `data/Clean_data.csv` | Data bersih hasil cleaning di Python |
+| `data/cleaned_data.csv` | Data bersih hasil cleaning di Python |
 | `python/Python.ipynb` | Script pembersihan data |
 | `sql/query.sql` | Query MySQL untuk analisis |
+| `powerbi/Dashboard_sales.pbix` | File Power BI |
 | `powerbi/Dashboard.png` | Screenshot hasil akhir dashboard |
 
 ---
